@@ -1,4 +1,5 @@
 # Selection Sort Algorithm
+![](SelectionSort.gif)
 
 ## Overview
 
