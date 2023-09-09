@@ -1,5 +1,7 @@
 # Insertion Sort Algorithm
 
+![](InsertionSort.gif)
+
 ## Overview
 
 Insertion Sort is a straightforward and intuitive sorting algorithm that builds the final sorted list one item at a time. It's akin to how most people arrange a hand of playing cards, picking one card at a time and placing it in its correct position.

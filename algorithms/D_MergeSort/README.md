@@ -1,5 +1,5 @@
 # Merge Sort Algorithm
-
+![](MergeSort.gif)
 ## Overview
 
 Merge Sort is a divide-and-conquer sorting algorithm that breaks down a list into smaller sublists, sorts those sublists, and then merges them back together in the correct order. It's known for its consistent performance and efficiency.

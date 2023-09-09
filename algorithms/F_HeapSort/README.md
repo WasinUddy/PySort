@@ -1,5 +1,5 @@
 # Heap Sort Algorithm
-
+![](HeapSort.gif)
 ## Overview
 
 Heap Sort is a powerful sorting algorithm that utilizes the properties of a binary heap to sort an array or list. It's an in-place sorting algorithm that offers good performance and is particularly efficient for priority queue implementations.

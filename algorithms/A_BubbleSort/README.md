@@ -1,5 +1,7 @@
 # Bubble Sort Algorithm
 
+![](BubbleSort.gif)
+
 ## Overview
 
 Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The process is repeated for every element in the list until the list is sorted.

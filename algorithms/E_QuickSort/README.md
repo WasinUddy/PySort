@@ -1,5 +1,5 @@
 # Quick Sort Algorithm
-
+![](QuickSort.gif)
 ## Overview
 
 Quick Sort is a highly efficient and widely-used sorting algorithm that employs a divide-and-conquer strategy to sort elements in a list.
